@@ -11,7 +11,8 @@ body {
 
 .form-container {
   width: 60%;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px;
   background: #fff;
   border-radius: 8px;
